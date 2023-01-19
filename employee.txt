@@ -1,0 +1,1 @@
+create table Employee(empid INT,empname TEXT,empdob DATE,deptloc TEXT);
